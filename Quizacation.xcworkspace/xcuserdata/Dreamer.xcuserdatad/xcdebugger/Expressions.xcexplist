@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "QAQuestionVC.onAnswerBtn_Pressed(AnyObject?) -&gt; ():QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Common.Data.gameType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAQuestionVC.loadQuestions() -&gt; ():QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Common.Data.hthPrevSubjName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAQuestionVC.viewDidLoad() -&gt; ():QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDevice.currentDevice().model">
+            </PersistentString>
+            <PersistentString
+               value = "UIDevice.currentDevice().userInterfaceIdiom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAProfileVC.(loadSubjectStats() -&gt; ()).(closure #1):QAProfileVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Common.Data.userId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAQuestionVC.(processHHMiniGame() -&gt; ()).(closure #1):QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "params">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAQuestionVC.(loadQuestions() -&gt; ()).(closure #1):QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Common.Data.miniGameId">
+            </PersistentString>
+            <PersistentString
+               value = "Common.Data.userId">
+            </PersistentString>
+            <PersistentString
+               value = "Common.Data.blogId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAHToHSpinVC.moveToQuestionScreen(String) -&gt; ():QAHToHSpinVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_gameId">
+            </PersistentString>
+            <PersistentString
+               value = "Common.Data.gameId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QAQuestionVC.processHHMiniGame() -&gt; ():QAQuestionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Common.Data.earnedPoints">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
